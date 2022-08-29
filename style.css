@@ -1,0 +1,17 @@
+h1 {
+
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h2 {
+
+    color: blue;
+    background-color: lightgreen;
+}
